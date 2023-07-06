@@ -10,7 +10,10 @@ Who am I?
 - 👯 I’m looking to collaborate on Collaborative and open-source projects 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: Email: [link](https://mail.google.com/mail/data/u/0/) 
-- ⚡ Fun fact: I love tea rather than coffee 
+- ⚡ Fun fact: I love tea rather than coffee
+
+[![Total Views]](https://github.com/RyanMohammad18)
+
 <br>
 <h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
