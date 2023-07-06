@@ -20,6 +20,8 @@ Who am I?
 
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raiyan-kabir-35b59518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raiyan-kabir-35b59518b/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100012217050135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012217050135" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/ryan_mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ryan_mohammad" height="30" width="40" /></a>
 
 
 
