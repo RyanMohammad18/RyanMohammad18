@@ -24,5 +24,5 @@ Skills:  REACT--JS--Python--Django--Flask--Bootstrap--HTML--CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMohammad18&show_icons=true&theme=tokyonight)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RyanMohammad18theme=radical)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RyanMohammad18&theme=radical)  
 
