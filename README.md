@@ -38,7 +38,6 @@ Who am I?
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RyanMohammad18)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyanMohammad18)  
 
 
 <p>Thanks For Visiting..You can go to my repositories to see my projects</p>
