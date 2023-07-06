@@ -4,7 +4,7 @@
 
 Who am I?
 -- Well, I am a curious and independent learner and web developer.😁
-Go down below to learn more information about me. 👇👇👇
+[<br>  ] Go down below to learn more information about me. 👇👇👇
 
 Skills:  REACT--JS--Python--Django--Flask--Bootstrap--HTML--CSS
 
