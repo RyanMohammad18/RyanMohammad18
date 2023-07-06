@@ -3,7 +3,7 @@
 ![This is Ryan Mohammad Bin Shahjahan](https://www.kolaxoccs.com/wp-content/themes/kolaxo/assets/imgs/service_page/Top_features/1.webp)
 
 Who am I?
--- Well, I am a curious and independent learner and web developer. 😁😁😁😁
+-- Well, I am a curious and independent learner and web developer.😁
 Go down below to learn more information about me. 👇👇👇
 
 Skills:  REACT--JS--Python--Django--Flask--Bootstrap--HTML--CSS
@@ -24,5 +24,5 @@ Skills:  REACT--JS--Python--Django--Flask--Bootstrap--HTML--CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMohammad18&show_icons=true&theme=tokyonight)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RyanMohammad18)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RyanMohammad18theme=radical)  
 
