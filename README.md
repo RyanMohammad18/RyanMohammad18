@@ -23,6 +23,7 @@ Skills:  REACT--JS--Python--Django--Flask--Bootstrap--HTML--CSS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMohammad18&hide_progress=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMohammad18&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMohammad18&show_icons=true&theme=tokyonight)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RyanMohammad18)  
 
