@@ -13,8 +13,8 @@ Who am I?
 - ⚡ Fun fact: I love tea rather than coffee
 <br>
 
-<h2>Click here to visit my portfolio : </h2>
-<a href="https://64c134b5a92e3612d71f39dd--eloquent-baklava-41d916.netlify.app/" target="blank"> Portfolio</a>
+<h2>Click here to visit my portfolio : <a href="https://64c134b5a92e3612d71f39dd--eloquent-baklava-41d916.netlify.app/" target="blank"> Portfolio</a> </h2>
+
 
 <h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
