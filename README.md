@@ -4,6 +4,7 @@
 
 Who am I?
 -- Well, I am a curious and independent learner and web developer.😁
+I was a former frontend developer in  <h3> "Exceeded IT" </h3> 
 <br>   Go down below to learn more information about me. 👇👇👇
 
 - 🌱 I’m currently learning NodeJS 
