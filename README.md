@@ -5,13 +5,13 @@
 Who am I?
 -- Well, I am a curious and independent learner and web developer.😁 </br>
 
-<h6> Want to know my working experience: </h6> 
--->  Full Stack Developer (MERN, Typescript,NextJS)
-      Headless Technologies (Current)
---> Software Developer (React)
-      Twinforce Solution Ltd
--->  Frontend Developer (Bootstrap, HTML,CSS)
-      Exceeded-IT
+<h3> Want to know my working experience: </h3> </br>
+-->  Full Stack Developer (MERN, Typescript,NextJS) </br>
+      Headless Technologies (Current)</br>
+--> Software Developer (React)</br>
+      Twinforce Solution Ltd (August,23 - February,23 )</br>
+-->  Frontend Developer:Part Time (Bootstrap, HTML,CSS)</br>
+      Exceeded-IT (2022)
 
 <br>   Go down below to learn more information about me. 👇👇👇
 
