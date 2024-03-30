@@ -4,7 +4,15 @@
 
 Who am I?
 -- Well, I am a curious and independent learner and web developer.😁 </br>
-I was a former frontend developer in  <h3> "Exceeded IT" </h3> 
+
+<h6> Want to know my working experience: </h6> 
+-->  Full Stack Developer (MERN, Typescript,NextJS)
+      Headless Technologies (Current)
+--> Software Developer (React)
+      Twinforce Solution Ltd
+-->  Frontend Developer (Bootstrap, HTML,CSS)
+      Exceeded-IT
+
 <br>   Go down below to learn more information about me. 👇👇👇
 
 - 🌱 I’m currently learning NodeJS 
