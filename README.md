@@ -15,8 +15,6 @@ Who am I?
 
 <br>   Go down below to learn more information about me. 👇👇👇
 
-- 🌱 I’m currently learning NodeJS 
-- 👯 I’m looking to collaborate on Collaborative and open-source projects 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: Email: [link](https://mail.google.com/mail/data/u/0/) 
 - ⚡ Fun fact: I love tea rather than coffee
