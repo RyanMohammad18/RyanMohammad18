@@ -1,6 +1,5 @@
 ## 👋 Hello Coders
 ### This is Ryan Mohammad Bin Shahjahan
-![This is Ryan Mohammad Bin Shahjahan](https://www.kolaxoccs.com/wp-content/themes/kolaxo/assets/imgs/service_page/Top_features/1.webp)
 
 Who am I?
 -- Well, I am a curious and independent learner and web developer.😁 </br>
